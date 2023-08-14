@@ -2,7 +2,7 @@
   "packageRules":[
     {
       "matchPackagePatterns": ["node"],
-      "labels": ["node-hu-mai"]
+      "labels": ["node-hu-mai", "aur-nahi-bhi"]
     }
   ]
 }
