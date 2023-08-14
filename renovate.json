@@ -1,0 +1,8 @@
+{
+  "packageRules":[
+    {
+      "matchPackagePatterns": ["node"],
+      "labels": ["node-hu-mai"]
+    }
+  ]
+}
